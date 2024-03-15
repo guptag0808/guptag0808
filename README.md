@@ -27,7 +27,7 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 - 💬 Ask me about **JavaScript, NodeJS, ExpressJS, MongoDB, MySQL**
 - 👯 I am also looking for some **Open Source Oppurtunities**
 - 👨🏻‍🎓 Visit https://guptag0808.github.io/
-- 🪢 Know more about me **[My Resume](https://drive.google.com/file/d/1BL0DuyR0KHbi-4NV8xEgeT_5rKRuAjWi/view?usp=share_link)**
+- 🪢 Know more about me **[My Resume](https://drive.google.com/file/d/1QV8ss8isCrcU4QuLcgWN_2J9sOXeTJcH/view?usp=sharing)**
 - 📫 How to reach me **saurabh4kaj@gmail.com**
 
 
